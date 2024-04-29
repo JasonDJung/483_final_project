@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      bgao8
+HostName                       fastx3-13.ews.illinois.edu
+ProcessIdentifier              23027
+ProcessCreationTime_UTC        1714392907
+ProcessCreationTime_Readable   Mon Apr 29 07:15:07 2024 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/bgao8/ece483.work/ece483_final24/LDO/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Apr 29 07:20:29 2024 CDT
