@@ -1,15 +1,15 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Mon Apr 24 21:48:41 2023 
+Current time: Mon Apr 29 11:24:36 2024 
 Best design point: 1
 Design specs: 
 	ece483_sp23_ldo_model_1	corner	Nominal - 
-	Phase Margin		37.83
-	Gain Margin		51.8
+	Phase Margin		Error	No
+	Gain Margin		Error	No
 Design parameters: 
 
 ExplorerRun.0
 Number of points completed: 1
-Number of simulation errors: 0
+Number of simulation errors: 2
 ExplorerRun.0 completed. 
-Current time: Mon Apr 24 21:48:52 2023 
+Current time: Mon Apr 29 11:24:48 2024 
