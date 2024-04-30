@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jasondj2
+HostName                       fastx3-04.ews.illinois.edu
+ProcessIdentifier              192333
+ProcessCreationTime_UTC        1714506651
+ProcessCreationTime_Readable   Tue Apr 30 14:50:51 2024 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/jasondj2/ece483.work/ece483_sp23/ldo/symbol/symbol.oa.cdslck
+TimeEditLocked                 Tue Apr 30 14:52:40 2024 CDT

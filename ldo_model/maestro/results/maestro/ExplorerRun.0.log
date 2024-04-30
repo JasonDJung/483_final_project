@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Mon Apr 29 11:24:36 2024 
+Current time: Tue Apr 30 15:03:18 2024 
 Best design point: 1
 Design specs: 
 	ece483_sp23_ldo_model_1	corner	Nominal - 
@@ -12,4 +12,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 2
 ExplorerRun.0 completed. 
-Current time: Mon Apr 29 11:24:48 2024 
+Current time: Tue Apr 30 15:03:28 2024 
