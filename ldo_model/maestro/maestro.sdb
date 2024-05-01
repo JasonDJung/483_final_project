@@ -55,7 +55,7 @@
 						<value>1.8</value>
 					</var>
 					<var>vin
-						<value>0</value>
+						<value>1</value>
 					</var>
 					<var>VREF
 						<value>0.6</value>
@@ -88,7 +88,16 @@
 					</option>
 				</origoptions>
 				<outputs>
-					<output>Vout_tran
+					<output>Vout_dc
+						<evalType>point</evalType>
+					</output>
+					<output>Line Reg
+						<evalType>point</evalType>
+					</output>
+					<output>Vin_dc
+						<evalType>point</evalType>
+					</output>
+					<output>Vout_trans
 						<evalType>point</evalType>
 					</output>
 				</outputs>
@@ -127,10 +136,16 @@
 			<plottingoption>defaultplottingtemplate
 				<value></value>
 			</plottingoption>
+			<plottingoption>autoplotmode
+				<value>Replace</value>
+			</plottingoption>
 		</plottingoptions>
 		<exploreroptions>
 			<exploreroption>waveformtemplate
 				<value>(None)</value>
+			</exploreroption>
+			<exploreroption>autoplotmode
+				<value>Replace</value>
 			</exploreroption>
 		</exploreroptions>
 		<incrementalsimsetup>

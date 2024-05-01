@@ -3,15 +3,15 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Apr 30 15:03:18 2024</timestamp>
-			<uuid>{b90a5063-b783-48af-acea-e21e02be5f8f}</uuid>
+			<timestamp>May 1 18:46:58 2024</timestamp>
+			<uuid>{eb787114-03ed-40b7-8c4d-6a40571a08bb}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/home/jasondj2/ece483.work/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/home/bgao8/ece483.work/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<runlog>/home/jasondj2/ece483.work/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlog>/home/bgao8/ece483.work/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
-			<psfdir>/home/jasondj2/cadence/simulation/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<psfdir>/home/bgao8/cadence/simulation/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/ece483_sp23/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 	</history>
