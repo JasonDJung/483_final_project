@@ -46,10 +46,10 @@
 						<value>0.1m</value>
 					</var>
 					<var>Rf1
-						<value>1K</value>
+						<value>1.5k</value>
 					</var>
 					<var>Rf2
-						<value>1K</value>
+						<value>1k</value>
 					</var>
 					<var>VIN
 						<value>1.8</value>
