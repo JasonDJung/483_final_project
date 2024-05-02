@@ -43,13 +43,13 @@
 						<value>100u</value>
 					</var>
 					<var>Iload
-						<value>1m</value>
+						<value>0.1m</value>
 					</var>
 					<var>Rf1
-						<value>1k</value>
+						<value>1K</value>
 					</var>
 					<var>Rf2
-						<value>1k</value>
+						<value>1K</value>
 					</var>
 					<var>VIN
 						<value>1.8</value>
@@ -58,7 +58,7 @@
 						<value>1</value>
 					</var>
 					<var>VREF
-						<value>0.6</value>
+						<value>600m</value>
 					</var>
 					<var>vref
 						<value>0</value>
@@ -68,6 +68,9 @@
 					</var>
 					<var>Wp
 						<value>1u</value>
+					</var>
+					<var>Cc
+						<value>0</value>
 					</var>
 				</vars>
 				<origoptions>
@@ -100,6 +103,9 @@
 					<output>Vout_trans
 						<evalType>point</evalType>
 					</output>
+					<output>V/V /Vin; dc (V/V)
+						<evalType>point</evalType>
+					</output>
 				</outputs>
 			</test>
 		</tests>
@@ -119,7 +125,7 @@
 				<value>(None)</value>
 			</plottingoption>
 			<plottingoption>plottingmode
-				<value>Replace</value>
+				<value>Append</value>
 			</plottingoption>
 			<plottingoption>plottype
 				<value>None</value>
